@@ -4,4 +4,8 @@ output: html_document
 date: "2023-05-21"
 ---
 
+<<<<<<< HEAD
 main
+=======
+branch2
+>>>>>>> branch2
